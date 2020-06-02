@@ -1,0 +1,7 @@
+.two-columns__paragraph {
+    flex-direction: column;
+    margin-bottom: 30px;
+    font-size: 24px;
+    line-height: 34px;
+    margin-top: 0px;
+  }
